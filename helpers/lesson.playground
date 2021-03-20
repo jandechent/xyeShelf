@@ -1,0 +1,42 @@
+## FastLED Color Palette Playground
+
+The NeoPixel strip is connected to Arduino pin 3.
+Click the "Run Code" button on the right to see it in action:
+
+<span style="background: #333;">
+  <wokwi-neopixel pin="3" pixel="29"></wokwi-neopixel>
+  <wokwi-neopixel pin="3" pixel="28"></wokwi-neopixel>
+  <wokwi-neopixel pin="3" pixel="27"></wokwi-neopixel>
+  <wokwi-neopixel pin="3" pixel="26"></wokwi-neopixel>
+  <wokwi-neopixel pin="3" pixel="25"></wokwi-neopixel>
+<br>
+  <wokwi-neopixel pin="3" pixel="20"></wokwi-neopixel>
+  <wokwi-neopixel pin="3" pixel="21"></wokwi-neopixel>
+  <wokwi-neopixel pin="3" pixel="22"></wokwi-neopixel>
+  <wokwi-neopixel pin="3" pixel="23"></wokwi-neopixel>
+  <wokwi-neopixel pin="3" pixel="24"></wokwi-neopixel>
+<br>
+  <wokwi-neopixel pin="3" pixel="19"></wokwi-neopixel>
+  <wokwi-neopixel pin="3" pixel="18"></wokwi-neopixel>
+  <wokwi-neopixel pin="3" pixel="17"></wokwi-neopixel>
+  <wokwi-neopixel pin="3" pixel="16"></wokwi-neopixel>
+  <wokwi-neopixel pin="3" pixel="15"></wokwi-neopixel>
+<br>
+  <wokwi-neopixel pin="3" pixel="10"></wokwi-neopixel>
+  <wokwi-neopixel pin="3" pixel="11"></wokwi-neopixel>
+  <wokwi-neopixel pin="3" pixel="12"></wokwi-neopixel>
+  <wokwi-neopixel pin="3" pixel="13"></wokwi-neopixel>
+  <wokwi-neopixel pin="3" pixel="14"></wokwi-neopixel>
+<br>
+  <wokwi-neopixel pin="3" pixel="9"></wokwi-neopixel>
+  <wokwi-neopixel pin="3" pixel="8"></wokwi-neopixel>
+  <wokwi-neopixel pin="3" pixel="7"></wokwi-neopixel>
+  <wokwi-neopixel pin="3" pixel="6"></wokwi-neopixel>
+  <wokwi-neopixel pin="3" pixel="5"></wokwi-neopixel>
+<br>
+  <wokwi-neopixel pin="3" pixel="0"></wokwi-neopixel>
+  <wokwi-neopixel pin="3" pixel="1"></wokwi-neopixel>
+  <wokwi-neopixel pin="3" pixel="2"></wokwi-neopixel>
+  <wokwi-neopixel pin="3" pixel="3"></wokwi-neopixel>
+  <wokwi-neopixel pin="3" pixel="4"></wokwi-neopixel>
+</span>
