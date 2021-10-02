@@ -1,4 +1,5 @@
 # xyeShelf
+<img align="right" width="400" height="400" src="https://jandechent.de/images/xyeShelf.jpg">
 A MQTT controlled, FastLED powered Arduino sketch to animate each pocket of a shelf, having multiple WS2812B's. There are multiple animations that can be run:
 
  - sparkling **fire** animation, inspired by [NeoFire](https://github.com/mic159/NeoFire/blob/master/NeoFire.ino).
@@ -8,6 +9,9 @@ A MQTT controlled, FastLED powered Arduino sketch to animate each pocket of a sh
  - a game of **pong**, where the players are blue, the ball white. When a player hits the ball they light up green. When a player misses, the hemispheres light up green and red to indicate the player that lost or won. 
  - colorful **disco** animation, where the beats per minute can be controlled via the parameter. 
  - two white dots, **flow**ing in circles. 
+
+
+
 
 ## MQTT Control
 The ```xyeShelf_mqtt.py``` starts a server, through which you an control the xyeShelf. The following MQTT topics are relevant:
